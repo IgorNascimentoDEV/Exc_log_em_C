@@ -1,2 +1,2 @@
-# Excerc-co_l-gica_C
+# Excercicios
 exercício de logica em linguagem C
